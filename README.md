@@ -1,6 +1,6 @@
 # Analytic Theory of Dropout Regularization
 
-This repository contains the two Mathematica notebooks for the paper “An analytic theory of dropout regularization” [(arXiv:2505.07792)](https://arxiv.org/abs/2505.07792)  
+This repository contains the two Mathematica notebooks for the paper “Analytic theory of dropout regularization” [(arXiv:2505.07792)](https://arxiv.org/abs/2505.07792)  
 (ArXiv preprint, May 13, 2025).
 
 ## Notebooks
