@@ -12,6 +12,9 @@ This repository contains the two Mathematica notebooks for the paper “Analytic
   - Fixed-point analysis of the unspecialized (plateau) phase  
   - Linear stability calculation for the specialization transition
 
+- **specialized_perturbative.nb**   
+  - First-order (η) correction to the specialized phase
+
 ## Requirements
 
 - Mathematica 12 or later
@@ -19,5 +22,3 @@ This repository contains the two Mathematica notebooks for the paper “Analytic
 ## Usage
 
 Adjust parameters (`K`, `M`, `η`, `σ`, `r`) in input cells to explore different regimes.
-
-
